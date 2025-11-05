@@ -1,6 +1,6 @@
-# Práctica de Numpy
+# Práctica de Data Cleaning
 
-Este repositorio contiene el enunciado de la práctica de numpy.
+Este repositorio contiene el enunciado de la práctica de Data Cleaning con Pandas.
 
 ## Estructura
 
